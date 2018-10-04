@@ -3,16 +3,16 @@ A BLE GATT client to read Hear Rate from smart devices
 Thank you for using Parakeet
 
 <b>The app has been tested with:</b>
-Pebble 2 HR
+Pebble 2 HR,
 Amazfit Bip
 
 <b>The app won't work with:</b>
-Most fitbit devices
-Apple watch
-Android wear devices
+Most fitbit devices,
+Apple watch,
+Android wear devices,
 
 <b>The app is likely to work with:</b>
-Polar heart rate chest band
+Polar heart rate chest band,
 Most Bluetooth Low Energy devices with an integrated GATT server
 
 Visual studio will take care of most problems by downloading a ton of libraries, but you have to manually activate the bluetooth component from the project settings
