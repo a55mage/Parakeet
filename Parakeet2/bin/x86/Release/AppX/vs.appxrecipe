@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-A7A3K1C</Machine>
+    <WindowsUser>Riccardo</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>2fd1e7dc-d12d-4f53-82a2-e2f4f99ee6e0</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Riccardo</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>987F27DFB398AB789A76DECB9444346823224C5C55D922B97940DD4567C83164</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2fd1e7dc-d12d-4f53-82a2-e2f4f99ee6e0_1.0.4.0_x86__tc57hw8tgwz3y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2fd1e7dc-d12d-4f53-82a2-e2f4f99ee6e0_tc57hw8tgwz3y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2fd1e7dc-d12d-4f53-82a2-e2f4f99ee6e0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Riccardo</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.4.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-23T09:41:29.072</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2018-08-23T09:41:01.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <Modified>2018-06-19T11:14:14.524</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <Modified>2018-06-19T11:14:14.566</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <Modified>2018-06-19T11:14:14.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <Modified>2018-06-19T11:14:14.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <Modified>2018-06-19T11:14:15.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-05-02T07:28:59.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:14.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:14.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:14.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:14.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:14.088</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-27T09:24:09.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-27T09:23:35.233</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-27T09:22:52.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:16:22.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-27T09:24:35.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:14.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:14.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:14.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:14.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:14.259</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:15.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:15.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:15.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:15.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:15.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:15.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:15.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:15.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:15.149</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:15.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:15.172</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:15.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:15.240</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:15.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:15.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:16.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:16.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:16.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:16.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:16.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:14.276</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:14.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:14.322</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:14.361</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-19T11:14:14.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Bianco.png">
+      <PackagePath>Bianco.png</PackagePath>
+      <Modified>2018-07-27T09:15:39.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2016-06-13T19:51:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\colorpebble.png">
+      <PackagePath>colorpebble.png</PackagePath>
+      <Modified>2018-07-27T09:16:27.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2018-08-23T09:41:01.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Parakeet2.dll">
+      <PackagePath>Parakeet2.dll</PackagePath>
+      <Modified>2018-08-23T09:41:28.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Parakeet2.exe">
+      <PackagePath>Parakeet2.exe</PackagePath>
+      <Modified>2018-08-23T09:41:29.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\Parakeet2.pdb">
+      <PackagePath>Parakeet2.pdb</PackagePath>
+      <Modified>2018-08-23T09:41:29.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Riccardo\source\repos\Parakeet2\Parakeet2\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-30T07:13:04.671</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-x86\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-x86\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-x64\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-x64\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-arm\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-arm\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.3\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.3\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.3\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.3\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.3\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.3\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
