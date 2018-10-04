@@ -1,5 +1,5 @@
 # Parakeet
-A BLE GATT client to read Hear Rate from smart devices
+A BLE GATT client to read the Heart Rate from smart devices
 Thank you for using Parakeet
 
 <b>The app has been tested with:</b>
@@ -9,7 +9,7 @@ Amazfit Bip
 <b>The app won't work with:</b>
 Most fitbit devices,
 Apple watch,
-Android wear devices,
+Wear OS devices (Android),
 
 <b>The app is likely to work with:</b>
 Polar heart rate chest band,
@@ -33,6 +33,7 @@ Visual studio will take care of most problems by downloading a ton of libraries,
 6. click connect and wait for the values
 
 <b>Things you should know:</b>
-This is a spike solution for a problem encountered during the development of our university project
-The reset button doesn't always work, don't use it pls
-The code is well commented
+Things you should know:
+- This is a spike solution for a problem encountered during the development of our university project
+- The reset button doesn't always work, don't use it pls
+- The code is well commented
