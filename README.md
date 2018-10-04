@@ -33,6 +33,6 @@ Visual studio will take care of most problems by downloading a ton of libraries,
 6. Click connect and wait for the values
 
 <b>Things you should know:</b>
-- This is a spike solution for a problem encountered during the development of our university project
+- This is a spike solution for a problem encountered during the development of a bigger university project
 - The reset button doesn't always work, don't use it pls
 - The code is well commented
