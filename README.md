@@ -7,9 +7,9 @@ Thank you for using Parakeet
 - Amazfit Bip
 
 The app won't work with:
-- Most fitbit devices,
-- Apple watch,
-- Wear OS devices (Android),
+- Most fitbit devices
+- Apple watch
+- Wear OS devices (Android)
 
 <b>The app is likely to work with:</b>
 - Polar heart rate chest band,
