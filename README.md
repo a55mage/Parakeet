@@ -14,7 +14,7 @@ A BLE GATT client to read the Heart Rate from smart devices and send the values 
 - Polar heart rate chest band,
 - Most Bluetooth Low Energy devices with an integrated GATT server
 
-Visual studio will take care of most problems by downloading a ton of libraries, but you have to manually activate the bluetooth component from the project settings
+⚠ Visual studio will take care of most problems by downloading a ton of libraries, but you have to manually activate the bluetooth component from the project settings ⚠
 
 <b>How to install:</b>
 
