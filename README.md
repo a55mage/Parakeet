@@ -5,7 +5,7 @@ A BLE GATT client to read the Heart Rate from smart devices and send the values 
 - Pebble 2 HR
 - Amazfit Bip
 
-The app won't work with:
+<b>The app won't work with:</b>
 - Most fitbit devices
 - Apple watch
 - Wear OS devices (Android)
