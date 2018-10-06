@@ -1,6 +1,5 @@
 # Parakeet
-A BLE GATT client to read the Heart Rate from smart devices
-Thank you for using Parakeet
+A BLE GATT client to read the Heart Rate from smart devices and send the values via TCP
 
 <b>The app has been tested with:</b>
 - Pebble 2 HR
